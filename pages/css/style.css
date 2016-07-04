@@ -1,0 +1,24 @@
+
+
+.notification {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  top: 15px;
+  left: 15px;
+  i {
+    color: white;
+  }
+}
+
+.notification_number {
+  position: absolute;
+  top: 12px;
+  left: 25px;
+
+  background-color: grey;
+  color: white;
+  border-radius: 3px;
+  padding: 1px 3px;
+  font: 8px Verdana;
+}

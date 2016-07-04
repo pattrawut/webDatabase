@@ -42,7 +42,7 @@
             <div class="col-md-4 col-md-offset-4">
                 <div class="login-panel panel panel-default">
                     <div class="panel-heading">
-                      <img src='../pages/assests/img/muic_logo_bp.png' height="110px" />
+                      <img src='../pages/img/muic_logo_bp.png' height="110px" />
                         <h3 class="panel-title">Please Sign In</h3>
                     </div>
                     <div class="panel-body">
